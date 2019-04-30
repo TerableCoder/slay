@@ -1,7 +1,12 @@
 {
-	"data": {
-		"index.js": "0WtvUq94GfnO7Y3/mJygC6fDx3FEb7xS5JgT7f4AY9M=",
-		"mod.json": "lP2frJg6QuXu7wrZVP5UGZZ5fdN19Vz8Lcvu2n4RyTE=",
-		"README.md": "Oei5rdhPLUwzBiNYDWDFx2owABhP8xP+VJxqu5cRYsc="
+	"files": {
+		"index.js": "7aa12d23aaaae8379c449af808d223852d061e48ca845f0df02fcc6703320a93",
+		"module.json": "787602a4ef7c9d3a51bfc8589a1deae436777debc323d5e68f48f5ddb87156dd",
+		"README.md": "39e8b9add84f2d4c330623580d60c5c76a3000184ff313fe549c6abb971162c7"
+	},
+	"defs": {
+		"S_PLAYER_STAT_UPDATE": 10,
+		"S_CREATURE_CHANGE_HP": 6,
+		"C_PLAYER_LOCATION": 5
 	}
 }

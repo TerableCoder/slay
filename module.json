@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "slay",
+    "author": "Pinkie Pie, Saegusa, TerableCoder",
+    "homepage": "https://github.com/TerableCoder/slay",
+    "description": "Triggers fall damage to lower your HP to the specified %.",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/slay/master/"]
+}
