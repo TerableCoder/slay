@@ -12,7 +12,7 @@ module.exports = function drop(mod) {
 	});
 
 	mod.hook('S_CREATURE_CHANGE_HP', 6, event => {
-		if({mod.game.me.is(event.target)){
+		if(mod.game.me.is(event.target)){
 			curHp = event.curHp;
 			maxHp = event.maxHp;
 		}
