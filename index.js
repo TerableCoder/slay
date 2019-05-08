@@ -6,7 +6,7 @@ module.exports = function drop(mod) {
 		curHp = 0n,
 		maxHp = 0n;
 
-	mod.hook('S_PLAYER_STAT_UPDATE', 10, event => {
+	mod.hook('S_PLAYER_STAT_UPDATE', 12, event => {
 		curHp = event.hp;
 		maxHp = event.maxHp;
 	});
