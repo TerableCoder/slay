@@ -1,11 +1,11 @@
 {
 	"files": {
-		"index.js": "b01d7028fd57f8073a6b1756287172e70ee2fa0f5be5e17262f5e804de94a1fc",
+		"index.js": "7d4f49a5c2f0a237bbddc56de5475d36d228605ba79167e64ff2ac4b0b266177",
 		"module.json": "787602a4ef7c9d3a51bfc8589a1deae436777debc323d5e68f48f5ddb87156dd",
 		"README.md": "39e8b9add84f2d4c330623580d60c5c76a3000184ff313fe549c6abb971162c7"
 	},
 	"defs": {
-		"S_PLAYER_STAT_UPDATE": 10,
+		"S_PLAYER_STAT_UPDATE": 13,
 		"S_CREATURE_CHANGE_HP": 6,
 		"C_PLAYER_LOCATION": 5
 	}
